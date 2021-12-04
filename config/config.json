@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5e4cae511ba25c342d806d6036aefd0c7445c836",
+  "SCAN_LINK": "https://bscscan.com/address/0x5e4cae511ba25c342d806d6036aefd0c7445c836#code",
+  "NETWORK": {
+    "NAME": "BSC",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "MetaMonstas",
+  "SYMBOL": "$MONSTA",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TOFUNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/",
+  "SHOW_BACKGROUND": true
+}
